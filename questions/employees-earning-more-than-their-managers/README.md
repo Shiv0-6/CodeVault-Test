@@ -31,7 +31,6 @@ Return the result table in any order.
 The result format is in the following example.
 
  
-
 Example 1:
 
 Input: 
@@ -62,4 +61,4 @@ See [solution.txt](./solution.txt) for the implementation.
 
 ---
 
-*Last updated: 2026-06-24T23:41:53.257Z*
+*Last updated: 2026-06-24T23:42:03.026Z*
