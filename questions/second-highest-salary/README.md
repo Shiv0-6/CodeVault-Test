@@ -27,7 +27,6 @@ Write a solution to find the second highest distinct salary from the Employee ta
 The result format is in the following example.
 
  
-
 Example 1:
 
 Input: 
@@ -73,4 +72,4 @@ See [solution.txt](./solution.txt) for the implementation.
 
 ---
 
-*Last updated: 2026-06-24T23:50:49.621Z*
+*Last updated: 2026-06-24T23:52:43.657Z*
