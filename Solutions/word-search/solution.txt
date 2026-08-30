@@ -1,5 +1,5 @@
 /**
- * Problem: 79. Word Search
+ * Problem: Word Search
  * Difficulty: Medium
  * LeetCode: https://leetcode.com/problems/word-search/
  * 
